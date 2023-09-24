@@ -1,7 +1,9 @@
 # Book-Store-MERN-CRUD-App
 
 This is a Book Store App which Supports Create, Read, Update, Delete Operations.
-This Project is made with Node.js and Express.js as its backend, MongoDB as its Database & React.js for the User Interface.
+
+This Project is made with Node.js and Express.js as its backend, MongoDB as its Database & React.js for the User Interface.\
+
 This Project uses multiple Npm package..Check package.json file.
 
 ![Screenshot (46)](https://github.com/hisekr/Book-Store-MERN-CRUD-App/assets/40202261/71c07fbe-15b2-41c9-89c0-bb7929501e39)
